@@ -28,9 +28,9 @@ import javax.swing.text.StyleConstants.FontConstants;
 
 /**
  *
- * @author hugo4295
+ * @author 
  */
-public class G4s21hugo4295e15 {
+public class programa {
 
     /**
      * @param args the command line arguments
