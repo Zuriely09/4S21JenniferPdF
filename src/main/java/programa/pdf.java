@@ -31,9 +31,9 @@ import javax.swing.text.StyleConstants.FontConstants;
 
 /**
  *
- * @author hugo4295
+ * @author egg
  */
-public class Eduardo {
+public class jennifer {
 
     /**
      * @param args the command line arguments
